@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+/original/aims-address-position.csv
+/data/aims-address-position.csv
